@@ -11,3 +11,5 @@
   "importOrderSeparation": true,
   "importOrderSortSpecifiers": true
 }
+
+  "semi": false
